@@ -8,6 +8,7 @@ Projects
 <code><img height="30" alt="Java" src="assets/icons8-java-100.png"></code>
 
 <code><img height="30" alt="Selenium" src="assets/icons8-selenium-100.png"></code>
+<code><img height="30" alt="JUnit" src="assets/icons8-JUnit-100.png"></code>
 <code><img height="30" alt="HTML" src="assets/icons8-html-5-100.png"></code>
 <code><img height="30" alt="CSS" src="assets/icons8-css3-100.png"></code>
 <code><img height="30" alt="SQL" src="assets/icons8-mysql-logo-100.png"></code>
