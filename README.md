@@ -12,7 +12,7 @@ Projects
 <code><img height="30" alt="HTML" src="assets/icons8-html-5-100.png"></code>
 <code><img height="30" alt="CSS" src="assets/icons8-css3-100.png"></code>
 <code><img height="30" alt="SQL" src="assets/icons8-mysql-logo-100.png"></code>
-<code><img height="30" alt="Maven" src="assets/icons8-apache-maven-100.png"></code>
+<code><img height="30" alt="Maven" src="assets/icons8-apache-maven-100-3.png"></code>
 <code><img height="30" alt="IDEA" src="assets/icons8-intellij-idea-100.png"></code>
 
 ### Statistics on GitHub
