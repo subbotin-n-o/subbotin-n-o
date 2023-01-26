@@ -1,4 +1,4 @@
-[![Header](https://github.com/subbotin-n-o/subbotin-n-o/blob/main/assets/Nikita%20Subbotin.png)]()
+[![Header](https://github.com/subbotin-n-o/subbotin-n-o/blob/main/assets/Hello!%20I'm%20Nikita.png)]
 
 ## I'm a beginner Automation QA Engineer
 
