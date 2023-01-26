@@ -9,6 +9,7 @@ Projects
 
 <code><img height="30" alt="Selenium" src="assets/icons8-selenium-100.png"></code>
 <code><img height="30" alt="Selenide" src="assets/icons8-selenide-100.png"></code>
+<code><img height="30" alt="RestAssured" src="assets/icons8-rest-assured-100.png"></code>
 <code><img height="30" alt="JUnit" src="assets/icons8-JUnit-100.png"></code>
 <code><img height="30" alt="TestNG" src="assets/icons8-TestNG-100.png"></code>
 <code><img height="30" alt="HTML" src="assets/icons8-html-5-100.png"></code>
