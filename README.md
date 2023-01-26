@@ -19,7 +19,7 @@ Projects
 
 ### Statistics on GitHub
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subbotin-n-o&show_icons=true&hide=stars,issues,contribs&count_private=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbotin-n-o&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subbotin-n-o&show_icons=true&hide=stars,issues,contribs&count_private=true&theme=vue&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbotin-n-o&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Follow Me
