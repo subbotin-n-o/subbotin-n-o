@@ -1,9 +1,5 @@
 <p align="center"><img width="90%" alt="Hello, I'm Nikita. I'm a beginner Automation QA Engineer" src="assets/Hello! I'm Nikita.png" /></p>
 
-## I'm a beginner Automation QA Engineer
-
-Projects
-
 ### Languages and Tools
 <code><img height="30" alt="Java" src="assets/icons8-java-100.png"></code>
 
