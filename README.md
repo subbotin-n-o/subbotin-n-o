@@ -1,4 +1,4 @@
-[![Header](https://github.com/subbotin-n-o/subbotin-n-o/blob/main/assets/Hello!%20I'm%20Nikita.png)]
+<p align="center"><img width="70%" alt="Hello, I'm Nikita. I'm a beginner Automation QA Engineer" src="assets/Hello! I'm Nikita.png" /></p>
 
 ## I'm a beginner Automation QA Engineer
 
