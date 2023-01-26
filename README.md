@@ -1,4 +1,4 @@
-<p align="center"><img width="70%" alt="Hello, I'm Nikita. I'm a beginner Automation QA Engineer" src="assets/Hello! I'm Nikita.png" /></p>
+<p align="center"><img width="90%" alt="Hello, I'm Nikita. I'm a beginner Automation QA Engineer" src="assets/Hello! I'm Nikita.png" /></p>
 
 ## I'm a beginner Automation QA Engineer
 
