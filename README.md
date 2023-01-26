@@ -8,10 +8,12 @@ Projects
 <code><img height="30" alt="Java" src="assets/icons8-java-100.png"></code>
 
 <code><img height="30" alt="Selenium" src="assets/icons8-selenium-100.png"></code>
+<code><img height="30" alt="Selenide" src="assets/icons8-selenide-100.png"></code>
 <code><img height="30" alt="JUnit" src="assets/icons8-JUnit-100.png"></code>
+<code><img height="30" alt="TestNG" src="assets/icons8-TestNG-100.png"></code>
 <code><img height="30" alt="HTML" src="assets/icons8-html-5-100.png"></code>
 <code><img height="30" alt="CSS" src="assets/icons8-css3-100.png"></code>
-<code><img height="30" alt="SQL" src="assets/icons8-mysql-logo-100.png"></code>
+<code><img height="30" alt="SQL" src="assets/icons8-sql-logo-100.png"></code>
 <code><img height="30" alt="Maven" src="assets/icons8-apache-maven-100-3.png"></code>
 <code><img height="30" alt="IDEA" src="assets/icons8-intellij-idea-100.png"></code>
 
